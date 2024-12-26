@@ -1,11 +1,12 @@
 using Avalonia.Controls;
 
-namespace AppDiscordRPC;
-
-public partial class MainWindow : Window
+namespace AppDiscordRPC
 {
-    public MainWindow()
+    public partial class MainWindow : Window
     {
-        InitializeComponent();
+        public MainWindow()
+        {
+            InitializeComponent();
+        }
     }
 }

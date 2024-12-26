@@ -2,7 +2,60 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        mc:Ignorable="d" Width="800" Height="450"
         x:Class="AppDiscordRPC.MainWindow"
-        Title="AppDiscordRPC">
+        Title="AppDiscordRPC"
+		WindowStartupLocation="CenterScreen"
+		Background="White">
+
+	<Grid RowDefinitions="Auto, Auto, Auto">
+
+		<!-- TitleApp_Start -->
+		<StackPanel
+			Grid.Row="0">
+			<Rectangle
+				Fill="Gray" Height="40">
+
+			</Rectangle>
+		</StackPanel>
+		<!-- TitleApp_End -->
+
+		<!-- MainWindow_Start -->
+		<StackPanel
+			Grid.Row="1">
+			<Rectangle
+				Fill="Gray" Height="388">
+
+			</Rectangle>
+		</StackPanel>
+		<!-- MainWindow_End -->
+
+		<!-- Version_Start -->
+		<StackPanel
+			Grid.Row="2"
+			Orientation="Horizontal">
+			<Border
+				Height="20"
+				Width="700"
+				Background="Gray"
+				BorderBrush="White"
+				BorderThickness="0,0,1,0">
+				<StackPanel>
+
+				</StackPanel>
+			</Border>
+
+			<Border
+				Height="20"
+				Width="100"
+				Background="Gray">
+				<StackPanel>
+
+				</StackPanel>
+			</Border>
+		</StackPanel>
+		<!-- Version_End -->
+
+	</Grid>
+
 </Window>
