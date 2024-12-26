@@ -1432,11 +1432,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hlebu\\AppDiscordRPC\\AppDiscordRPC.csproj",
+      "projectUniqueName": "C:\\Users\\hlebu\\YandexDisk\\NikoirDevelopment\\AppDiscordRPC\\AppDiscordRPC.csproj",
       "projectName": "AppDiscordRPC",
-      "projectPath": "C:\\Users\\hlebu\\AppDiscordRPC\\AppDiscordRPC.csproj",
+      "projectPath": "C:\\Users\\hlebu\\YandexDisk\\NikoirDevelopment\\AppDiscordRPC\\AppDiscordRPC.csproj",
       "packagesPath": "C:\\Users\\hlebu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hlebu\\AppDiscordRPC\\obj\\",
+      "outputPath": "C:\\Users\\hlebu\\YandexDisk\\NikoirDevelopment\\AppDiscordRPC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

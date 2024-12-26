@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BY2m993lk+8=",
+  "dgSpecHash": "DrZ+k/Y5Svc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\hlebu\\AppDiscordRPC\\AppDiscordRPC.csproj",
+  "projectFilePath": "C:\\Users\\hlebu\\YandexDisk\\NikoirDevelopment\\AppDiscordRPC\\AppDiscordRPC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hlebu\\.nuget\\packages\\avalonia\\11.2.1\\avalonia.11.2.1.nupkg.sha512",
     "C:\\Users\\hlebu\\.nuget\\packages\\avalonia.angle.windows.natives\\2.1.22045.20230930\\avalonia.angle.windows.natives.2.1.22045.20230930.nupkg.sha512",
